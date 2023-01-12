@@ -6,7 +6,7 @@
 # Base-de-Datos-I
 
 ## [1 - Unidad I](#UnidadI)
-#### [1.1 - ¿Que es SQL?](#Queessql)
+#### [1.1 - ¿Que es SQL?](#queessql)
 #### [1.2 - ¿Qué es T-SQL?](#QuéesT-SQL)
 #### [1.3 - Microsoft SQL Server](#MicrosoftSQLServer)
 #### [1.4 - UNIDADES DE MEDIDA EN INFORMATICA](#UNIDADESDEMEDIDAENINFORMATICA)
@@ -49,7 +49,7 @@
 # Unidad I <a name="UnidadI"></a>
 ## Fudamentos de Estructuras de Datos
 #
-### **¿Que es SQL?** <a name="Queessql"></a>
+### **¿Que es SQL?** <a name="queessql"></a>
 #### SQL Structured Query Language en español Lenguaje de consulta Estructurado, es un lenguaje específico utilizado en programación, diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales.
 #### Una de sus principales características es el manejo de álgebra y el cálculo relacional para realizar consultas y obtener información de forma sencilla, y además para realizar cambios en ella.
 
