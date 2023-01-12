@@ -8,7 +8,7 @@
 ## [1 - Unidad I](#UnidadI)
 #### [1.1 - ¿Que es SQL?](#queessql)
 #### [1.2 - ¿Qué es T-SQL?](#queessqlSQL)
-#### [1.3 - Microsoft SQL Server](#MicrosoftSQLServer)
+#### [1.3 - Microsoft SQL Server](#microsoftsqlserver)
 #### [1.4 - UNIDADES DE MEDIDA EN INFORMATICA](#UNIDADESDEMEDIDAENINFORMATICA)
 #### [1.5 - TIPOS DE DATO SQL SERVER](#TIPOSDEDATOSQLSERVER)
 #### [1.6 - Integridad de la Base de Datos](#IntegridaddelaBasedeDatos)
@@ -69,7 +69,7 @@
     Crear interfaces de usuario.
     Crear aplicaciones ejecutables.
 
-## Microsoft SQL Server<a name="MicrosoftSQLServer"></a>
+## Microsoft SQL Server<a name="microsoftsqlserver"></a>
 ####  Es un sistema de manejo de bases de datos del modelo relacional, desarrollado por la empresa Microsoft.
 
 #### El lenguaje utilizado (que puede ser ejecutado por línea de comandos o mediante la interfaz gráfica de Management Studio) es Transact-SQL T-SQ
