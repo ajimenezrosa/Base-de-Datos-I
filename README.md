@@ -46,7 +46,7 @@
 
 
 
-# Unidad I <a name="UnidadI"></a>
+# Unidad I<a name="UnidadI"></a>
 ## Fudamentos de Estructuras de Datos
 #
 ### **¿Que es SQL?** <a name="queessql"></a>
@@ -193,7 +193,7 @@ CREATE TABLE Production.TransactionHistoryArchive1
 
 #
 
-## **Ejercicio** Crear las Tablas de nuestra Base de datos. <a name="EjercicioCrearlasTablasdenuestraBasededatos"></a>
+## Ejercicio Crear las Tablas de nuestra Base de datos. <a name="EjercicioCrearlasTablasdenuestraBasededatos"></a>
 
 ### Tabla de pacientes.
 
