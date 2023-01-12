@@ -7,7 +7,7 @@
 
 ## [1 - Unidad I](#UnidadI)
 #### [1.1 - ¿Que es SQL?](#queessql)
-#### [1.2 - ¿Qué es T-SQL?](#queessql-SQL)
+#### [1.2 - ¿Qué es T-SQL?](#queessqlSQL)
 #### [1.3 - Microsoft SQL Server](#MicrosoftSQLServer)
 #### [1.4 - UNIDADES DE MEDIDA EN INFORMATICA](#UNIDADESDEMEDIDAENINFORMATICA)
 #### [1.5 - TIPOS DE DATO SQL SERVER](#TIPOSDEDATOSQLSERVER)
@@ -53,7 +53,7 @@
 #### SQL Structured Query Language en español Lenguaje de consulta Estructurado, es un lenguaje específico utilizado en programación, diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales.
 #### Una de sus principales características es el manejo de álgebra y el cálculo relacional para realizar consultas y obtener información de forma sencilla, y además para realizar cambios en ella.
 
-### ¿Qué es T-SQL? <a name="queessql-SQL"></a>
+### ¿Qué es T-SQL? <a name="queessqlSQL"></a>
 #### T-SQL (Transact-SQL) es la manera en que se comunican las instrucciones de manipulación de datos que gestiona el usuario con el Servidor; las cuales permiten realizar operaciones claves en SQL Server, como creación y modificación de esquemas de base de datos, inserción y modificación de datos y además la administración del propio Servidor de Base de Datos.
 
 #### Esto se realiza mediante el envío de sentencias e instrucciones en T-SQL que son procesadas por el servidor y los resultados regresan a la aplicación cliente.
